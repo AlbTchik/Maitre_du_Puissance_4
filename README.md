@@ -23,6 +23,6 @@ Still impossible to beat when I have the counter advantage
 <br /><br /><br />
 
 
-Morgane Senejko deserve some credits, due to her incomparable mind.
+Morgane Senejko deserves some credits, due to her incomparable mind.
 
 LightningStrike Team, Schoolclass Team N°1 
