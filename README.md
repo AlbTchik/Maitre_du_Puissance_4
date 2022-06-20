@@ -7,7 +7,7 @@ This masterpiece defeated all the other program in the class !!!
 It is based on a fine-tunned version of Alpha-Beta pruning.
 
 
-Here is one simple victory for the program
+Here is one simple game where I got beaten by the algorithm
 ![Victory IA](https://user-images.githubusercontent.com/90097422/174677522-b68b8bf0-6b0e-48a7-9941-3726c9c5456f.png)
 
 Here is another, I couldn't do anything, the one stone it put lead to 2 possible victory
