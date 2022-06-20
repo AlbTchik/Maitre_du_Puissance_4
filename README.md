@@ -17,7 +17,7 @@ Here is another, I couldn't do anything, the one stone lead to 2 possible victor
 
 <br />
 
-Still impossible to beat when it start and I have the counter advantage 
+Still impossible to beat when I have the counter advantage 
 ![Victory IA 3](https://user-images.githubusercontent.com/90097422/174678493-f94ed7aa-68ae-4a76-85d6-6026a03d5923.png)
 
 <br /><br /><br />
