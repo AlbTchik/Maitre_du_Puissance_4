@@ -12,7 +12,7 @@ Here is one simple game where I got beaten by the algorithm
 
 <br />
 
-Here is another, I couldn't do anything, the one stone it put lead to 2 possible victory
+Here is another, I couldn't do anything, the one stone lead to 2 possible victory
 ![Victory IA 2](https://user-images.githubusercontent.com/90097422/174677532-b8e32e2f-e650-4244-8926-c4073288fc21.png)
 
 <br />
