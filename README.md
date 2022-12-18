@@ -12,7 +12,8 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________________________
 
-Cette Intelligence Artificelle utilise l'agorithme Min-Max, pour prédire vos coups les plus géniaux. L'algorithme est applicable à de nombreux jeux, tant que le joueur et son adversaire s'affontent dans un espace de mouvements fini. La Figure 1 présente son fonctionnement sur un jeu de Morpion :  
+Cette Intelligence Artificelle utilise l'agorithme Min-Max, pour prédire vos coups les plus géniaux. Celui-ci est applicable à de nombreux jeux, tant que le joueur et son adversaire s'affontent dans un espace de mouvements fini.  
+La Figure 1 présente son fonctionnement sur un jeu de Morpion :  
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90097422/208294578-eca26d53-12a1-4482-ab11-651f1b176b6d.png" width="500"><br>
