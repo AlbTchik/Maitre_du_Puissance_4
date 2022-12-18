@@ -25,7 +25,7 @@ A chaque coup, l'agorithme Min-Max génère un arbre qui va représenter tout le
 La Figure 2 présente une exemple de l'arbre Min-Max avec une heuristique, chaque noeud correspond à un mouvement dans le jeu :  
 <br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90097422/208295650-0a7abd0c-e160-4da6-a19f-2a333c9a3350.png" width="400">
+  <img src="https://user-images.githubusercontent.com/90097422/208295650-0a7abd0c-e160-4da6-a19f-2a333c9a3350.png" width="400"><br>
   <b>Figure 2 : L'arbre du Min-Max avec une heuristique</b>
 </p>
 <br>
