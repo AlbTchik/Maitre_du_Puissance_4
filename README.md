@@ -30,7 +30,7 @@ La Figure 2 présente une exemple de l'arbre Min-Max avec une heuristique, chaqu
 </p>
 <br>
 Pour améliorer la rapidité de l'agorithme Min-Max, on utilise l'élagage Alpha-Beta, qui permet de réduire la taille de l'arbre. En pratique, celui-ci supprime  les branches qui ne seront pas exploités du fait de leur trop faible probabilités de victoire.  
-Pour en savoir plus, je vous conseille cette excellente vidéo de Sébastien Lague sur le sujet : [test](https://youtu.be/l-hh51ncgDI)
+Pour en savoir plus, je vous conseille cette <a href="https://youtu.be/l-hh51ncgDI">excellente vidéo</a> de Sébastien Lague sur le sujet.  
 <br><br>
 La Figure 3 présente le résultat de ma partie contre le Maitre. La victoire lui revient, évidemment :  
 <br><br>
