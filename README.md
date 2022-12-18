@@ -1,5 +1,5 @@
 
-## 🔥 Vous vous trouvez dans le répertoire du Maitre du Puissance 4. 🔥  
+## 🔥 Bienvenue dans le répertoire du Maitre du Puissance 4. 🔥  
 🔰 Son rang de Maitre lui a été décerné après sa victoire contre chacuns des autres programmes de la classe de Datascience. 🔰   
 <br>
 _________________________________________________________________________________________________________________________________
@@ -40,6 +40,6 @@ La Figure 3 présente le résultat de ma partie contre le Maitre. La victoire lu
 </p>
 <br>
 **Vous savez donc maintenant comment fonctionne cet algorithme. Mais auriez-vous la capacité de le battre ?**  
-Pour cela, vous pouvez télécharger et lancer le fichier suivant : 'Maitre_Puissance_4.py'.  
+Pour cela, vous pouvez télécharger et lancer le fichier suivant : `Maitre_Puissance_4.py`.  
 <br><br>
 Mais je vous previens, ça ne va pas étre facile de lui arracher une victoire. 💪🎯 
