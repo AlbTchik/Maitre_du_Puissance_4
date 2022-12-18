@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 **Date de réalisation :** Avril-Mai 2020, Cours de DataScience & IA, ESILV  
 <br>
-**Cadre du projet :** Projet réalisé en groupe, avec deux équipes concurrentes : Dimitri et Stéphan contre Morgane et moi, les meilleurs codes pour chaques fonctions ont été gardés.  
+**Cadre du projet :** Projet réalisé en groupe, avec deux équipes concurrentes : Dimitri et Stéphan contre Morgane et moi, les meilleurs codes pour chacunes des fonctions ont été gardés.  
 <br>
 **Mots-clés :** Puissance 4, Algorithme Min-Max, Elagage Alpha-Beta, Adversarial Coding  
 
