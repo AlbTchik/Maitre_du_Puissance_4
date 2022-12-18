@@ -1,28 +1,25 @@
-# LightningStrike_Connect_4
+**Date de réalisation :** Avril-Mai 2020, Cours de DataScience & IA, ESILV
+<br>
+**Cadre du projet :** Projet réalisé en groupe, avec deux équipes concurrentes : Dimitri et Stéphan contre Morgane et moi, les meilleurs codes pour chaques fonctions ont été gardés.
+<br>
+**Mots-clés :** Puissance 4, Algorithme Min-Max, Elagage Alpha-Beta, Adversarial Coding  
 
-<br />
-I made this code during my Datascience & IA course at ESILV, in the second year.<br />
-This masterpiece defeated all the other program in the class !<br />
-It is based on a fine-tunned version of Alpha-Beta pruning.<br />
 
-<br /><br />
+## 🔥 Vous vous trouvez dans le répertoire du Maitre du Puissance 4. 🔥
 
-Here is one simple game where I got beaten by the algorithm
-![Victory IA](https://user-images.githubusercontent.com/90097422/174677522-b68b8bf0-6b0e-48a7-9941-3726c9c5456f.png)
+🔰 Son rang de Maitre lui a été décerné après qu'il ait vaincu chacuns des autres programmes de la classe de Datascience. 
 
-<br />
+Cette Intelligence Artificelle utilise l'agorithme Min-Max, implémentée avec l'Elagage Alpha-Beta pour prédire vos coups les plus géniaux.
+Voici comment cela fonctionne sur le jeu du Morpion : 
 
-Here is another, I couldn't do anything, the one stone lead to 2 possible victory
+![image](https://user-images.githubusercontent.com/90097422/208294578-eca26d53-12a1-4482-ab11-651f1b176b6d.png)
+
+A chaque coup, l'agorithme Min-Max génère un arbre qui va représenter tout les mouvements possibles, jusqu'a une certaine distance dans le futur. Grace a une heuristique, on attribue une certaine valeurs a chacuns des mouvements, en fonction de leur probabilité de victoire. Puis l'Intelligence Artificelle choisi le mouvement qui l'avantage le mieux, en prenant en compte tout vos meilleurs coups.  
+Pour en savoir plus, je vous conseille cette [excellente vidéo](https://www.youtube.com/watch?v=l-hh51ncgDI) de Sébastien Lague sur le sujet.
+
+Voici comment fonctionne cet algorithme. Mais auriez-vous la capacité de le battre ?
+Pour cela, télécharger et lancez le fichier suivant : 'Maitre_Puissance_4.py'.
+
+Voici un exemple de partie : 
+
 ![Victory IA 2](https://user-images.githubusercontent.com/90097422/174677532-b8e32e2f-e650-4244-8926-c4073288fc21.png)
-
-<br />
-
-Still impossible to beat when I have the counter advantage 
-![Victory IA 3](https://user-images.githubusercontent.com/90097422/174678493-f94ed7aa-68ae-4a76-85d6-6026a03d5923.png)
-
-<br /><br /><br />
-
-
-Morgane Senejko deserves some credits for her helps
-
-LightningStrike Team, Schoolclass Team N°1 
