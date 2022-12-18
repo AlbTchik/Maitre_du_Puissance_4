@@ -1,9 +1,6 @@
 
 ## 🔥 Vous vous trouvez dans le répertoire du Maitre du Puissance 4. 🔥  
-<br>
-
 🔰 Son rang de Maitre lui a été décerné après sa victoire contre chacuns des autres programmes de la classe de Datascience. 🔰   
-
 <br>
 _________________________________________________________________________________________________________________________________
 
