@@ -19,7 +19,7 @@ La Figure 1 présente son fonctionnement sur un jeu de Morpion :
   <img src="https://user-images.githubusercontent.com/90097422/208294578-eca26d53-12a1-4482-ab11-651f1b176b6d.png" width="500"><br>
   <b>Figure 1 : L'arbre du Min-Max sur le jeu du Morpion</b>
 </p>
-<br><br>
+<br>
 A chaque coup, l'agorithme Min-Max génère un arbre qui va représenter tout les mouvements possibles, jusqu'a une certaine distance dans le futur. Grace a une heuristique, on attribue une certaine valeurs a chacuns des mouvements, en fonction de leur probabilité de victoire. Puis l'Intelligence Artificelle choisi le mouvement qui l'avantage le mieux, en prenant en compte tout vos meilleurs coups.  
 
 La Figure 2 présente une exemple de l'arbre Min-Max avec une heuristique, chaque noeud correspond à un mouvement dans le jeu :  
@@ -28,7 +28,7 @@ La Figure 2 présente une exemple de l'arbre Min-Max avec une heuristique, chaqu
   <img src="https://user-images.githubusercontent.com/90097422/208295650-0a7abd0c-e160-4da6-a19f-2a333c9a3350.png" width="400">
   <b>Figure 2 : L'arbre du Min-Max avec une heuristique</b>
 </p>
-<br><br>
+<br>
 Pour améliorer la rapidité de l'agorithme Min-Max, on utilise l'élagage Alpha-Beta, qui permet de réduire la taille de l'arbre. En pratique, celui-ci supprime  les branches qui ne seront pas exploités du fait de leur trop faible probabilités de victoire. Pour en savoir plus, je vous conseille cette [excellente vidéo](https://www.youtube.com/watch?v=l-hh51ncgDI) de Sébastien Lague sur le sujet.  
 
 Voici le résultat d'une partie contre le Maitre. La victoire lui revient, évidemment : 
