@@ -21,7 +21,7 @@ La Figure 1 présente son fonctionnement sur un jeu de Morpion :
 </p>
 <br>
 A chaque coup, l'agorithme Min-Max génère un arbre qui va représenter tout les mouvements possibles, jusqu'a une certaine distance dans le futur. Grace a une heuristique, on attribue une certaine valeurs a chacuns des mouvements, en fonction de leur probabilité de victoire. Puis l'Intelligence Artificelle choisi le mouvement qui l'avantage le mieux, en prenant en compte tout vos meilleurs coups.  
-
+<br>
 La Figure 2 présente une exemple de l'arbre Min-Max avec une heuristique, chaque noeud correspond à un mouvement dans le jeu :  
 <br>
 <p align="center">
@@ -30,12 +30,15 @@ La Figure 2 présente une exemple de l'arbre Min-Max avec une heuristique, chaqu
 </p>
 <br>
 Pour améliorer la rapidité de l'agorithme Min-Max, on utilise l'élagage Alpha-Beta, qui permet de réduire la taille de l'arbre. En pratique, celui-ci supprime  les branches qui ne seront pas exploités du fait de leur trop faible probabilités de victoire. Pour en savoir plus, je vous conseille cette [excellente vidéo](https://www.youtube.com/watch?v=l-hh51ncgDI) de Sébastien Lague sur le sujet.  
-
+<br>
 Voici le résultat d'une partie contre le Maitre. La victoire lui revient, évidemment : 
-
-![Victory IA](https://user-images.githubusercontent.com/90097422/174677532-b8e32e2f-e650-4244-8926-c4073288fc21.png)
-
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90097422/174677532-b8e32e2f-e650-4244-8926-c4073288fc21.png" width="400"><br>
+  <b>Figure 2 : L'arbre du Min-Max avec une heuristique</b>
+</p>
+<br>
 Vous savez donc maintenant comment fonctionne cet algorithme. Mais auriez-vous la capacité de le battre ?  
 Pour cela, vous pouvez télécharger et lancer le fichier suivant : 'Maitre_Puissance_4.py'.  
-
+<br>
 Mais je vous previens, ça ne va pas étre facile de lui arracher une victoire.  
