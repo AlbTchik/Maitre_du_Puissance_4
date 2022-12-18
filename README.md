@@ -12,7 +12,7 @@
 Cette Intelligence Artificelle utilise l'agorithme Min-Max, implémentée avec l'Elagage Alpha-Beta pour prédire vos coups les plus géniaux.
 Voici comment cela fonctionne sur le jeu du Morpion : 
 
-<img src="https://user-images.githubusercontent.com/90097422/208294578-eca26d53-12a1-4482-ab11-651f1b176b6d.png" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/90097422/208294578-eca26d53-12a1-4482-ab11-651f1b176b6d.png" width="500">
 
 A chaque coup, l'agorithme Min-Max génère un arbre qui va représenter tout les mouvements possibles, jusqu'a une certaine distance dans le futur. Grace a une heuristique, on attribue une certaine valeurs a chacuns des mouvements, en fonction de leur probabilité de victoire. Puis l'Intelligence Artificelle choisi le mouvement qui l'avantage le mieux, en prenant en compte tout vos meilleurs coups.  
 Pour en savoir plus, je vous conseille cette [excellente vidéo](https://www.youtube.com/watch?v=l-hh51ncgDI) de Sébastien Lague sur le sujet.
