@@ -42,5 +42,5 @@ La Figure 3 présente le résultat de ma partie contre le Maitre. La victoire lu
 
 **Vous savez donc maintenant comment fonctionne cet algorithme. Mais auriez-vous la capacité de le battre ?**<br>  
 Pour cela, vous pouvez télécharger et lancer le fichier suivant : <code>Maitre_Puissance_4.py</code>   
-<br><br>
+<br>
 Mais je vous previens, ça ne va pas étre facile de lui arracher une victoire. 💪🎯 
