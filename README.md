@@ -1,13 +1,17 @@
 
 ## 🔥 Vous vous trouvez dans le répertoire du Maitre du Puissance 4. 🔥
 
-🔰 Son rang de Maitre lui a été décerné après sa victoire sur chacuns des autres programmes de la classe de Datascience. 
+🔰 Son rang de Maitre lui a été décerné après sa victoire contre chacuns des autres programmes de la classe de Datascience.  
+
+_________________________________________________________________________________________________________________________________
 
 **Date de réalisation :** Avril-Mai 2020, Cours de DataScience & IA, ESILV  
 <br>
 **Cadre du projet :** Projet réalisé en groupe, avec deux équipes concurrentes : Dimitri et Stéphan contre Morgane et moi, les meilleurs codes pour chaques fonctions ont été gardés.  
 <br>
 **Mots-clés :** Puissance 4, Algorithme Min-Max, Elagage Alpha-Beta, Adversarial Coding  
+
+____________________________________________________________________________________________________________________________________
 
 Cette Intelligence Artificelle utilise l'agorithme Min-Max, implémentée avec l'Elagage Alpha-Beta, pour prédire vos coups les plus géniaux. L'algorithme est applicable à de nombreux jeux. Il faut simplement que le joueur et son adversaire s'affontent dans un espace de mouvements fini.  
 Voici comment cela fonctionne sur le jeu du Morpion :  
