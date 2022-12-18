@@ -23,7 +23,7 @@ La Figure 1 présente son fonctionnement sur un jeu de Morpion :
 A chaque coup, l'agorithme Min-Max génère un arbre qui va représenter tout les mouvements possibles, jusqu'a une certaine distance dans le futur. Grace a une heuristique, on attribue une certaine valeurs a chacuns des mouvements, en fonction de leur probabilité de victoire. Puis l'Intelligence Artificelle choisi le mouvement qui l'avantage le mieux, en prenant en compte tout vos meilleurs coups.  
 <br>
 La Figure 2 présente une exemple de l'arbre Min-Max avec une heuristique, chaque noeud correspond à un mouvement dans le jeu :  
-<br>
+<br><br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90097422/208295650-0a7abd0c-e160-4da6-a19f-2a333c9a3350.png" width="400"><br>
   <b>Figure 2 : L'arbre du Min-Max avec une heuristique</b>
