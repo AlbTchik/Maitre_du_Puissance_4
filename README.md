@@ -39,7 +39,7 @@ Voici le résultat de ma partie contre le Maitre. La victoire lui revient, évid
   <b>Figure 3 : Le Maitre en action</b>
 </p>
 <br>
-Vous savez donc maintenant comment fonctionne cet algorithme. Mais auriez-vous la capacité de le battre ?  
+**Vous savez donc maintenant comment fonctionne cet algorithme. Mais auriez-vous la capacité de le battre ? 💪**  
 Pour cela, vous pouvez télécharger et lancer le fichier suivant : 'Maitre_Puissance_4.py'.  
 <br><br>
-Mais je vous previens, ça ne va pas étre facile de lui arracher une victoire.  
+Mais je vous previens, ça ne va pas étre facile de lui arracher une victoire. 🎯 
