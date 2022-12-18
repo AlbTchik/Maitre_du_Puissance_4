@@ -34,11 +34,11 @@ Pour améliorer la rapidité de l'agorithme Min-Max, on utilise l'élagage Alpha
 Voici le résultat de ma partie contre le Maitre. La victoire lui revient, évidemment : 
 <br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90097422/174677532-b8e32e2f-e650-4244-8926-c4073288fc21.png" width="400"><br>
-  <b>Figure 2 : L'arbre du Min-Max avec une heuristique</b>
+  <img src="https://user-images.githubusercontent.com/90097422/174677532-b8e32e2f-e650-4244-8926-c4073288fc21.png" width="700"><br>
+  <b>Figure 3 : Le MAitre en action</b>
 </p>
 <br>
 Vous savez donc maintenant comment fonctionne cet algorithme. Mais auriez-vous la capacité de le battre ?  
 Pour cela, vous pouvez télécharger et lancer le fichier suivant : 'Maitre_Puissance_4.py'.  
-<br>
+<br><br>
 Mais je vous previens, ça ne va pas étre facile de lui arracher une victoire.  
