@@ -32,14 +32,14 @@ La Figure 2 présente une exemple de l'arbre Min-Max avec une heuristique, chaqu
 Pour améliorer la rapidité de l'agorithme Min-Max, on utilise l'élagage Alpha-Beta, qui permet de réduire la taille de l'arbre. En pratique, celui-ci supprime  les branches qui ne seront pas exploités du fait de leur trop faible probabilités de victoire.  
 Pour en savoir plus, je vous conseille cette excellente vidéo de Sébastien Lague sur le sujet : https://www.youtube.com/watch?v=l-hh51ncgDI.  
 <br><br>
-Voici le résultat de ma partie contre le Maitre. La victoire lui revient, évidemment :  
+La Figure 3 présente le résultat de ma partie contre le Maitre. La victoire lui revient, évidemment :  
 <br><br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90097422/174677532-b8e32e2f-e650-4244-8926-c4073288fc21.png" width="600"><br>
   <b>Figure 3 : Le Maitre en action</b>
 </p>
 <br>
-💪**Vous savez donc maintenant comment fonctionne cet algorithme. Mais auriez-vous la capacité de le battre ?** 💪  
+**Vous savez donc maintenant comment fonctionne cet algorithme. Mais auriez-vous la capacité de le battre ?**  
 Pour cela, vous pouvez télécharger et lancer le fichier suivant : 'Maitre_Puissance_4.py'.  
 <br><br>
-🎯 Mais je vous previens, ça ne va pas étre facile de lui arracher une victoire. 🎯 
+Mais je vous previens, ça ne va pas étre facile de lui arracher une victoire. 💪🎯 
