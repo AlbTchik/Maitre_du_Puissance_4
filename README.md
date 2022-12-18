@@ -4,7 +4,7 @@
 <br>
 _________________________________________________________________________________________________________________________________
 
-**Date de réalisation :** Avril-Mai 2020, Cours de DataScience & IA, ESILV  
+**Date de réalisation :** Avril-Mai 2020, Cours de Datascience & IA, ESILV  
 <br>
 **Cadre du projet :** Projet réalisé en groupe, avec deux équipes concurrentes : Dimitri et Stéphan contre Morgane et moi, les meilleurs codes pour chacunes des fonctions ont été gardés.  
 <br>
