@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________________________
 
-Cette Intelligence Artificelle utilise l'agorithme Min-Max, pour prédire vos coups les plus géniaux. Celui-ci est applicable à de nombreux jeux, tant que le joueur et son adversaire s'affontent dans un espace de mouvements fini. C'est en somme, une méthode de résolution de l'équation de Bellman pour les jeux à somme nulle, dont voici la formule : $V(s) = max_a ∑ [s', r] p(s', r | s, a)[r + γV(s')]$  
+Cette Intelligence Artificelle utilise l'agorithme Min-Max, pour prédire vos coups les plus géniaux. Celui-ci est applicable à de nombreux jeux, tant que le joueur et son adversaire s'affontent dans un espace de mouvements fini. C'est en somme, une méthode de résolution de l'équation de Bellman pour les jeux à somme nulle, dont voici la formule : $V(x)=\max _{a\in \Gamma (x)}\{F(x,a)+\beta V(T(x,a))\}.$  
    
 La Figure 1 présente son fonctionnement sur un jeu de Morpion :  
 <br>
