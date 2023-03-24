@@ -1,6 +1,6 @@
 
 ## 🔥 Bienvenue dans le répertoire du Maitre du Puissance 4. 🔥  
-🔰 Son rang de Maitre lui a été décerné après sa victoire contre chacuns des autres programmes de la classe de Datascience. 🔰   
+🔰 Le rang de Maitre lui a été décerné après sa victoire contre chacuns des autres programmes de la classe de Datascience. 🔰   
 <br>
 _________________________________________________________________________________________________________________________________
 
@@ -12,7 +12,8 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________________________
 
-Cette Intelligence Artificelle utilise l'agorithme Min-Max, pour prédire vos coups les plus géniaux. Celui-ci est applicable à de nombreux jeux, tant que le joueur et son adversaire s'affontent dans un espace de mouvements fini.  
+Cette Intelligence Artificelle utilise l'agorithme Min-Max, pour prédire vos coups les plus géniaux. Celui-ci est applicable à de nombreux jeux, tant que le joueur et son adversaire s'affontent dans un espace de mouvements fini. C'est en somme, une méthode de résolution de l'équation de Bellman pour les jeux à somme nulle, dont voici la formule : $V(s) = max_a ∑ [s', r] p(s', r | s, a)[r + γV(s')]$  
+   
 La Figure 1 présente son fonctionnement sur un jeu de Morpion :  
 <br>
 <p align="center">
@@ -43,4 +44,4 @@ La Figure 3 présente le résultat de ma partie contre le Maitre. La victoire lu
 **Vous savez donc maintenant comment fonctionne cet algorithme. Mais auriez-vous la capacité de le battre ?**<br>  
 Pour cela, vous pouvez télécharger et lancer le fichier suivant : <code>Maitre_Puissance_4.py</code>   
 <br>
-Mais je vous previens, ça ne va pas étre facile de lui arracher une victoire. 💪🎯 
+Mais je vous previens, ça ne va pas étre facile de lui arracher une victoire. 💪🎯  
